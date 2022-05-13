@@ -30,7 +30,9 @@ class JogoController extends Controller
 
   public function create() {
 
-      return view('events.create');
+    $jogos = Jogo::all();
+
+      return view('events.create', ['jogos' => $jogos]);
 
   }
 

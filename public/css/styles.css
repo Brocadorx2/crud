@@ -5,3 +5,8 @@ body{
 ul {
   background-color: rgb(128, 207, 24);
 }
+
+h2 {
+  font-size: 20px;
+  font-style: italic;
+}
