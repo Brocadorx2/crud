@@ -18,9 +18,10 @@
 
   </head>
   <body>
-
-  <h1>Jogos</h1>
-  @yield('content')
+    <div>
+      <h1>Jogos</h1>
+      @yield('content')
+    </div>
   </body>
  
 </html>

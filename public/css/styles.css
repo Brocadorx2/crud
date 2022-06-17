@@ -2,6 +2,48 @@ body{
   background-color: aqua;
 }
 
+div {
+  margin: auto;
+  width: 350px;
+  height: 350px;
+  align-content: center;
+}
+
+label {
+  display: flex;
+}
+
+textarea {
+  width: 350px;
+}
+
+.button-editar-jogo {
+  width: 350px;
+  margin-top: 0px;
+}
+
+input {
+  width: 350px;
+  height: 30px;
+}
+
+.caixa-adita-deleta {
+  align-content: center;
+}
+
+.editar {
+  font-size: 25px;
+}
+
+.buttom-principal{
+  width: 350px;
+  margin-top: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
 ul {
   background-color: rgb(128, 207, 24);
 }
